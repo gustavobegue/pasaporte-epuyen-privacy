@@ -97,10 +97,11 @@ Nuestra app utiliza servicios de terceros con sus propias políticas de privacid
 
 Si tiene preguntas sobre esta Política de Privacidad, contáctenos en:
 
-**Email:** [TU_EMAIL_AQUI]  
-**Desarrollador:** Camoch Epuyén  
+**Email:** gustavoboye@gmail.com
+**Desarrollador:** Gustavo Boyé  
 **Ubicación:** Epuyén, Argentina
 
 ---
 
 **Nota:** Esta política se aplica únicamente a la aplicación móvil Pasaporte Epuyén.
+
